@@ -36,6 +36,7 @@ public class Saluto extends HttpServlet {
 			print.print("Ciao" + user);
 		} else
 			print.print("Hello" + user);
+			print.print("Hello" + user);
 	}
 
 	/**
